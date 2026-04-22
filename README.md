@@ -1,9 +1,12 @@
 # Harmes Agent
 
-> 多Agent协作调度框架
+医疗安全AI Agent — 用药安全+不良反应监测
 
-## 📐 理论
-> **Harness理论**：Agent调度Harness——任务分配→并行执行→结果聚合→质量检查。
-> **红杉论点**：交付协作结果，而非Agent框架。
+## 核心能力
 
-## 📄 MIT License
+- 药物相互作用检查
+- 不良反应预测
+- 用药剂量优化
+- 安全警报推送
+
+MIT License
